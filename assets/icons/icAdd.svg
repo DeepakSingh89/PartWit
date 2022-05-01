@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="106.574" viewBox="0 0 100 106.574">
+  <g id="Group_10485" data-name="Group 10485" transform="translate(-138 -277)">
+    <g id="Ellipse_3151" data-name="Ellipse 3151" transform="translate(138 277)" fill="#fff" stroke="#9d9d9d" stroke-width="4">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="48" fill="none"/>
+    </g>
+    <path id="Icon-person" d="M24.137,24.137a9.818,9.818,0,1,0-9.818-9.818A9.847,9.847,0,0,0,24.137,24.137Zm0,4.909c-6.5,0-19.637,3.314-19.637,9.818v4.909H43.774V38.865C43.774,32.36,30.641,29.046,24.137,29.046Z" transform="translate(163.363 299.863)" opacity="0.4"/>
+    <g id="Icon_feather-plus-circle" data-name="Icon feather-plus-circle" transform="translate(201.299 349.074)">
+      <path id="Path_14" data-name="Path 14" d="M33,18A15,15,0,1,1,18,3,15,15,0,0,1,33,18Z" fill="#fff" stroke="#437cd0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_15" data-name="Path 15" d="M18,12V24" fill="#fff" stroke="#437cd0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_16" data-name="Path 16" d="M12,18H24" fill="#fff" stroke="#437cd0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

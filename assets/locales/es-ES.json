@@ -1,0 +1,77 @@
+{
+  "welcome": "Bienvenido a PartWit",
+  "home": "Bienvenido a casa",
+  "email": "Dirección de correo electrónico",
+  "email_":"Correo electrónico",
+  "password": "Contraseña",
+  "re_enter_password": "Escriba la contraseña otra vez",
+  "faceId": "Usar identificación facial",
+  "forgotPsw": "Has olvidado tu contraseña",
+  "login": "Acceso",
+  "location": "Ubicación",
+  "allow": "Permitir que \"PartWit\" acceda a esto",
+  "allow_": "ubicación del dispositivo?",
+  "always": "Siempre",
+  "while_using_app":  "Mientras usa la aplicación",
+  "never":"Nunca",
+  "social_media_text": "Ingresar a través de las redes sociales",
+
+  "already_an_acc":        "¿Ya tienes una cuenta?",
+  "signIn":         "Firme aquí",
+  "signUp": "Inscribirse",
+  "agree": "Estoy de acuerdo con",
+  "terms": "Términos y Condiciones",
+  "and":  "y",
+  "policy": "Política de privacidad",
+  "confirmPsw": "Confirmar contraseña",
+  "register":   "Registrarse",
+  "setNewPsw": "Establecer nueva contraseña",
+  "setNewPassword": "Establezca la nueva contraseña para",
+
+  "verification": "Verificación",
+  "enter_verification_code":"Porfavor ingrese el codigo de verificacion",
+  "sendCode": "enviar a albert.red@gamil.com",
+  "submit": "Entregar",
+  "dont_receive": "¿No recibiste un mensaje de texto?",
+  "resendCode": "Reenviar codigo",
+  "createProfile":"Crear perfil",
+  "uploadProfile": "Subir foto de perfil",
+  "yourName": "Tu nombre",
+  "continue": "Continuar",
+
+
+  "email_text": "Ingrese la dirección de correo electrónico asociada",
+  "email_text_": "con tu cuenta",
+  "dont_have":"¿No tienes una cuenta?",
+  "signUp_here": "Registrate aquí",
+  "enterCode": "*Ingrese el código correctamente",
+
+  "userName":"Byron M. Woodall",
+  "userEmail": "byronwoodall@gmail.com",
+  "saveItems":"Guardar elementos",
+  "ItemsListed": "Artículos listados para la venta",
+  "editProfile": "Editar perfil",
+  "seeReviews":"Ver Reseñas",
+  "aboutPartWit":"Acerca de PartWit",
+  "settings": "Ajustes",
+  "current": "Plan actual",
+  "free": "Gratis",
+  "update":"Actualizar",
+
+
+  "itemName": "Nombre del árticulo",
+  "reviewSeller": "Revisar vendedor",
+
+
+  "changeProfilePhoto":"Cambiar foto de perfil",
+  "chooseProfile":"Elegir foto de perfil",
+  "camera":"Cámara",
+  "gallery":"Galería",
+  "save":"Ahorrar",
+
+
+  "yourReview":"Tus reseñas",
+  "personName":"Nombre de la persona",
+  "agoTime":"hace 2m"
+
+}
